@@ -21,11 +21,13 @@ async def on_ready():
 async def scrape():
     for i in range(len(courses_to_scrape)):
         course = courses_to_scrape[i]
-        if course.scrape() or True:
+        if course.scrape():
             # We want to DM the user
             user = ttb.get_user(course.user)
             await user.send(f"Your course {course._course_code} {course._activity} has a spot open!")
             courses_to_scrape.pop(i)
+            
+scrape.start()
 
 @ttb.slash_command(name="add", description="Add a course to be tracked by the bot")    
 async def add(interaction: nextcord.Interaction, course_code: str, course_title: str, activity: str, session: str):
