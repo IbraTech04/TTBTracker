@@ -1,0 +1,1350 @@
+{
+    "payload": {
+        "pageableCourse": {
+            "courses": [
+                {
+                    "id": "63fe64f673942b10b43c2303",
+                    "name": "Contemporary Communication Technologies",
+                    "ucName": null,
+                    "code": "CCT109H5",
+                    "sectionCode": "F",
+                    "campus": "University of Toronto at Mississauga",
+                    "sessions": [
+                        "20235F"
+                    ],
+                    "sections": [
+                        {
+                            "name": "PRA0102",
+                            "type": "Practical",
+                            "teachMethod": "PRA",
+                            "sectionNumber": "0102",
+                            "meetingTimes": [
+                                {
+                                    "start": {
+                                        "day": 2,
+                                        "millisofday": 43200000
+                                    },
+                                    "end": {
+                                        "day": 2,
+                                        "millisofday": 46800000
+                                    },
+                                    "building": {
+                                        "buildingCode": "IB",
+                                        "buildingRoomNumber": "210",
+                                        "buildingRoomSuffix": "",
+                                        "buildingUrl": "https://map.utoronto.ca/?id=1809#!m/495123",
+                                        "buildingName": null
+                                    },
+                                    "sessionCode": "20235F",
+                                    "repetition": "WEEKLY",
+                                    "repetitionTime": "ONCE_A_WEEK"
+                                },
+                                {
+                                    "start": {
+                                        "day": 4,
+                                        "millisofday": 43200000
+                                    },
+                                    "end": {
+                                        "day": 4,
+                                        "millisofday": 46800000
+                                    },
+                                    "building": {
+                                        "buildingCode": "IB",
+                                        "buildingRoomNumber": "210",
+                                        "buildingRoomSuffix": "",
+                                        "buildingUrl": "https://map.utoronto.ca/?id=1809#!m/495123",
+                                        "buildingName": null
+                                    },
+                                    "sessionCode": "20235F",
+                                    "repetition": "WEEKLY",
+                                    "repetitionTime": "ONCE_A_WEEK"
+                                }
+                            ],
+                            "firstMeeting": null,
+                            "instructors": [],
+                            "currentEnrolment": 40,
+                            "maxEnrolment": 40,
+                            "subTitle": "",
+                            "cancelInd": "N",
+                            "waitlistInd": "N",
+                            "deliveryModes": [
+                                {
+                                    "session": "20235F",
+                                    "mode": "INPER"
+                                }
+                            ],
+                            "currentWaitlist": 0,
+                            "enrolmentInd": "",
+                            "tbaInd": "N",
+                            "openLimitInd": "N",
+                            "notes": [],
+                            "enrolmentControls": [
+                                {
+                                    "yearOfStudy": "*",
+                                    "post": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "subject": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "subjectPost": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "typeOfProgram": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "designation": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "primaryOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "associatedOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "secondOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "adminOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "collaborativeOrgGroupCode": "*",
+                                    "quantity": 40,
+                                    "sequence": 1
+                                }
+                            ],
+                            "linkedMeetingSections": null
+                        },
+                        {
+                            "name": "PRA0107",
+                            "type": "Practical",
+                            "teachMethod": "PRA",
+                            "sectionNumber": "0107",
+                            "meetingTimes": [
+                                {
+                                    "start": {
+                                        "day": 2,
+                                        "millisofday": 61200000
+                                    },
+                                    "end": {
+                                        "day": 2,
+                                        "millisofday": 64800000
+                                    },
+                                    "building": {
+                                        "buildingCode": "IB",
+                                        "buildingRoomNumber": "385",
+                                        "buildingRoomSuffix": "",
+                                        "buildingUrl": "https://map.utoronto.ca/?id=1809#!m/495123",
+                                        "buildingName": null
+                                    },
+                                    "sessionCode": "20235F",
+                                    "repetition": "WEEKLY",
+                                    "repetitionTime": "ONCE_A_WEEK"
+                                },
+                                {
+                                    "start": {
+                                        "day": 4,
+                                        "millisofday": 61200000
+                                    },
+                                    "end": {
+                                        "day": 4,
+                                        "millisofday": 64800000
+                                    },
+                                    "building": {
+                                        "buildingCode": "IB",
+                                        "buildingRoomNumber": "385",
+                                        "buildingRoomSuffix": "",
+                                        "buildingUrl": "https://map.utoronto.ca/?id=1809#!m/495123",
+                                        "buildingName": null
+                                    },
+                                    "sessionCode": "20235F",
+                                    "repetition": "WEEKLY",
+                                    "repetitionTime": "ONCE_A_WEEK"
+                                }
+                            ],
+                            "firstMeeting": null,
+                            "instructors": [],
+                            "currentEnrolment": 0,
+                            "maxEnrolment": 40,
+                            "subTitle": "",
+                            "cancelInd": "N",
+                            "waitlistInd": "N",
+                            "deliveryModes": [
+                                {
+                                    "session": "20235F",
+                                    "mode": "INPER"
+                                }
+                            ],
+                            "currentWaitlist": 0,
+                            "enrolmentInd": "",
+                            "tbaInd": "N",
+                            "openLimitInd": "C",
+                            "notes": [],
+                            "enrolmentControls": [
+                                {
+                                    "yearOfStudy": "*",
+                                    "post": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "subject": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "subjectPost": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "typeOfProgram": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "designation": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "primaryOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "associatedOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "secondOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "adminOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "collaborativeOrgGroupCode": "*",
+                                    "quantity": 40,
+                                    "sequence": 1
+                                }
+                            ],
+                            "linkedMeetingSections": null
+                        },
+                        {
+                            "name": "LEC0101",
+                            "type": "Lecture",
+                            "teachMethod": "LEC",
+                            "sectionNumber": "0101",
+                            "meetingTimes": [
+                                {
+                                    "start": {
+                                        "day": 2,
+                                        "millisofday": 32400000
+                                    },
+                                    "end": {
+                                        "day": 2,
+                                        "millisofday": 39600000
+                                    },
+                                    "building": {
+                                        "buildingCode": "IB",
+                                        "buildingRoomNumber": "120",
+                                        "buildingRoomSuffix": "",
+                                        "buildingUrl": "https://map.utoronto.ca/?id=1809#!m/495123",
+                                        "buildingName": null
+                                    },
+                                    "sessionCode": "20235F",
+                                    "repetition": "WEEKLY",
+                                    "repetitionTime": "ONCE_A_WEEK"
+                                },
+                                {
+                                    "start": {
+                                        "day": 4,
+                                        "millisofday": 32400000
+                                    },
+                                    "end": {
+                                        "day": 4,
+                                        "millisofday": 39600000
+                                    },
+                                    "building": {
+                                        "buildingCode": "IB",
+                                        "buildingRoomNumber": "120",
+                                        "buildingRoomSuffix": "",
+                                        "buildingUrl": "https://map.utoronto.ca/?id=1809#!m/495123",
+                                        "buildingName": null
+                                    },
+                                    "sessionCode": "20235F",
+                                    "repetition": "WEEKLY",
+                                    "repetitionTime": "ONCE_A_WEEK"
+                                }
+                            ],
+                            "firstMeeting": null,
+                            "instructors": [
+                                {
+                                    "firstName": "Elizabeth",
+                                    "lastName": "Peden"
+                                }
+                            ],
+                            "currentEnrolment": 213,
+                            "maxEnrolment": 280,
+                            "subTitle": "",
+                            "cancelInd": "N",
+                            "waitlistInd": "Y",
+                            "deliveryModes": [
+                                {
+                                    "session": "20235F",
+                                    "mode": "INPER"
+                                }
+                            ],
+                            "currentWaitlist": 0,
+                            "enrolmentInd": "P",
+                            "tbaInd": "N",
+                            "openLimitInd": "N",
+                            "notes": [],
+                            "enrolmentControls": [
+                                {
+                                    "yearOfStudy": "*",
+                                    "post": {
+                                        "code": "ER   CCI1R",
+                                        "name": "Studies in Communication, Culture, Information and Technology"
+                                    },
+                                    "subject": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "subjectPost": {
+                                        "code": "",
+                                        "name": ""
+                                    },
+                                    "typeOfProgram": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "designation": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "primaryOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "associatedOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "secondOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "adminOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "collaborativeOrgGroupCode": "*",
+                                    "quantity": 280,
+                                    "sequence": 1
+                                },
+                                {
+                                    "yearOfStudy": "*",
+                                    "post": {
+                                        "code": "ER   HBA",
+                                        "name": "Honours Bachelor of Arts"
+                                    },
+                                    "subject": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "subjectPost": {
+                                        "code": "",
+                                        "name": ""
+                                    },
+                                    "typeOfProgram": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "designation": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "primaryOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "associatedOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "secondOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "adminOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "collaborativeOrgGroupCode": "*",
+                                    "quantity": 280,
+                                    "sequence": 2
+                                },
+                                {
+                                    "yearOfStudy": "*",
+                                    "post": {
+                                        "code": "ER   CCI1",
+                                        "name": "Studies in Communication, Culture, Information and Technology"
+                                    },
+                                    "subject": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "subjectPost": {
+                                        "code": "",
+                                        "name": ""
+                                    },
+                                    "typeOfProgram": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "designation": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "primaryOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "associatedOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "secondOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "adminOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "collaborativeOrgGroupCode": "*",
+                                    "quantity": 280,
+                                    "sequence": 3
+                                },
+                                {
+                                    "yearOfStudy": "*",
+                                    "post": {
+                                        "code": "ER   VST1",
+                                        "name": "Visual Studies"
+                                    },
+                                    "subject": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "subjectPost": {
+                                        "code": "",
+                                        "name": ""
+                                    },
+                                    "typeOfProgram": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "designation": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "primaryOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "associatedOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "secondOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "adminOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "collaborativeOrgGroupCode": "*",
+                                    "quantity": 280,
+                                    "sequence": 4
+                                },
+                                {
+                                    "yearOfStudy": "*",
+                                    "post": {
+                                        "code": "ER   VST1R",
+                                        "name": "Visual Studies"
+                                    },
+                                    "subject": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "subjectPost": {
+                                        "code": "",
+                                        "name": ""
+                                    },
+                                    "typeOfProgram": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "designation": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "primaryOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "associatedOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "secondOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "adminOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "collaborativeOrgGroupCode": "*",
+                                    "quantity": 280,
+                                    "sequence": 5
+                                },
+                                {
+                                    "yearOfStudy": "*",
+                                    "post": {
+                                        "code": "ERTRFHBA",
+                                        "name": "Honours Bachelor of Arts"
+                                    },
+                                    "subject": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "subjectPost": {
+                                        "code": "",
+                                        "name": ""
+                                    },
+                                    "typeOfProgram": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "designation": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "primaryOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "associatedOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "secondOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "adminOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "collaborativeOrgGroupCode": "*",
+                                    "quantity": 280,
+                                    "sequence": 6
+                                },
+                                {
+                                    "yearOfStudy": "*",
+                                    "post": {
+                                        "code": "",
+                                        "name": ""
+                                    },
+                                    "subject": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "subjectPost": {
+                                        "code": "",
+                                        "name": ""
+                                    },
+                                    "typeOfProgram": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "designation": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "primaryOrg": {
+                                        "code": "ERIN",
+                                        "name": "University of Toronto Mississauga"
+                                    },
+                                    "associatedOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "secondOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "adminOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "collaborativeOrgGroupCode": "*",
+                                    "quantity": 280,
+                                    "sequence": 8
+                                },
+                                {
+                                    "yearOfStudy": "*",
+                                    "post": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "subject": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "subjectPost": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "typeOfProgram": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "designation": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "primaryOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "associatedOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "secondOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "adminOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "collaborativeOrgGroupCode": "*",
+                                    "quantity": 280,
+                                    "sequence": 9
+                                }
+                            ],
+                            "linkedMeetingSections": null
+                        },
+                        {
+                            "name": "PRA0104",
+                            "type": "Practical",
+                            "teachMethod": "PRA",
+                            "sectionNumber": "0104",
+                            "meetingTimes": [
+                                {
+                                    "start": {
+                                        "day": 2,
+                                        "millisofday": 50400000
+                                    },
+                                    "end": {
+                                        "day": 2,
+                                        "millisofday": 54000000
+                                    },
+                                    "building": {
+                                        "buildingCode": "MN",
+                                        "buildingRoomNumber": "2130",
+                                        "buildingRoomSuffix": "",
+                                        "buildingUrl": "https://map.utoronto.ca/?id=1809#!m/495122",
+                                        "buildingName": null
+                                    },
+                                    "sessionCode": "20235F",
+                                    "repetition": "WEEKLY",
+                                    "repetitionTime": "ONCE_A_WEEK"
+                                },
+                                {
+                                    "start": {
+                                        "day": 4,
+                                        "millisofday": 50400000
+                                    },
+                                    "end": {
+                                        "day": 4,
+                                        "millisofday": 54000000
+                                    },
+                                    "building": {
+                                        "buildingCode": "MN",
+                                        "buildingRoomNumber": "2130",
+                                        "buildingRoomSuffix": "",
+                                        "buildingUrl": "https://map.utoronto.ca/?id=1809#!m/495122",
+                                        "buildingName": null
+                                    },
+                                    "sessionCode": "20235F",
+                                    "repetition": "WEEKLY",
+                                    "repetitionTime": "ONCE_A_WEEK"
+                                }
+                            ],
+                            "firstMeeting": null,
+                            "instructors": [],
+                            "currentEnrolment": 40,
+                            "maxEnrolment": 40,
+                            "subTitle": "",
+                            "cancelInd": "N",
+                            "waitlistInd": "N",
+                            "deliveryModes": [
+                                {
+                                    "session": "20235F",
+                                    "mode": "INPER"
+                                }
+                            ],
+                            "currentWaitlist": 0,
+                            "enrolmentInd": "",
+                            "tbaInd": "N",
+                            "openLimitInd": "N",
+                            "notes": [],
+                            "enrolmentControls": [
+                                {
+                                    "yearOfStudy": "*",
+                                    "post": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "subject": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "subjectPost": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "typeOfProgram": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "designation": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "primaryOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "associatedOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "secondOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "adminOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "collaborativeOrgGroupCode": "*",
+                                    "quantity": 40,
+                                    "sequence": 1
+                                }
+                            ],
+                            "linkedMeetingSections": null
+                        },
+                        {
+                            "name": "PRA0106",
+                            "type": "Practical",
+                            "teachMethod": "PRA",
+                            "sectionNumber": "0106",
+                            "meetingTimes": [
+                                {
+                                    "start": {
+                                        "day": 2,
+                                        "millisofday": 57600000
+                                    },
+                                    "end": {
+                                        "day": 2,
+                                        "millisofday": 61200000
+                                    },
+                                    "building": {
+                                        "buildingCode": "IB",
+                                        "buildingRoomNumber": "210",
+                                        "buildingRoomSuffix": "",
+                                        "buildingUrl": "https://map.utoronto.ca/?id=1809#!m/495123",
+                                        "buildingName": null
+                                    },
+                                    "sessionCode": "20235F",
+                                    "repetition": "WEEKLY",
+                                    "repetitionTime": "ONCE_A_WEEK"
+                                },
+                                {
+                                    "start": {
+                                        "day": 4,
+                                        "millisofday": 57600000
+                                    },
+                                    "end": {
+                                        "day": 4,
+                                        "millisofday": 61200000
+                                    },
+                                    "building": {
+                                        "buildingCode": "IB",
+                                        "buildingRoomNumber": "210",
+                                        "buildingRoomSuffix": "",
+                                        "buildingUrl": "https://map.utoronto.ca/?id=1809#!m/495123",
+                                        "buildingName": null
+                                    },
+                                    "sessionCode": "20235F",
+                                    "repetition": "WEEKLY",
+                                    "repetitionTime": "ONCE_A_WEEK"
+                                }
+                            ],
+                            "firstMeeting": null,
+                            "instructors": [],
+                            "currentEnrolment": 16,
+                            "maxEnrolment": 40,
+                            "subTitle": "",
+                            "cancelInd": "N",
+                            "waitlistInd": "N",
+                            "deliveryModes": [
+                                {
+                                    "session": "20235F",
+                                    "mode": "INPER"
+                                }
+                            ],
+                            "currentWaitlist": 0,
+                            "enrolmentInd": "",
+                            "tbaInd": "N",
+                            "openLimitInd": "N",
+                            "notes": [],
+                            "enrolmentControls": [
+                                {
+                                    "yearOfStudy": "*",
+                                    "post": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "subject": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "subjectPost": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "typeOfProgram": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "designation": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "primaryOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "associatedOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "secondOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "adminOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "collaborativeOrgGroupCode": "*",
+                                    "quantity": 40,
+                                    "sequence": 1
+                                }
+                            ],
+                            "linkedMeetingSections": null
+                        },
+                        {
+                            "name": "PRA0101",
+                            "type": "Practical",
+                            "teachMethod": "PRA",
+                            "sectionNumber": "0101",
+                            "meetingTimes": [
+                                {
+                                    "start": {
+                                        "day": 2,
+                                        "millisofday": 39600000
+                                    },
+                                    "end": {
+                                        "day": 2,
+                                        "millisofday": 43200000
+                                    },
+                                    "building": {
+                                        "buildingCode": "IB",
+                                        "buildingRoomNumber": "210",
+                                        "buildingRoomSuffix": "",
+                                        "buildingUrl": "https://map.utoronto.ca/?id=1809#!m/495123",
+                                        "buildingName": null
+                                    },
+                                    "sessionCode": "20235F",
+                                    "repetition": "WEEKLY",
+                                    "repetitionTime": "ONCE_A_WEEK"
+                                },
+                                {
+                                    "start": {
+                                        "day": 4,
+                                        "millisofday": 39600000
+                                    },
+                                    "end": {
+                                        "day": 4,
+                                        "millisofday": 43200000
+                                    },
+                                    "building": {
+                                        "buildingCode": "IB",
+                                        "buildingRoomNumber": "210",
+                                        "buildingRoomSuffix": "",
+                                        "buildingUrl": "https://map.utoronto.ca/?id=1809#!m/495123",
+                                        "buildingName": null
+                                    },
+                                    "sessionCode": "20235F",
+                                    "repetition": "WEEKLY",
+                                    "repetitionTime": "ONCE_A_WEEK"
+                                }
+                            ],
+                            "firstMeeting": null,
+                            "instructors": [],
+                            "currentEnrolment": 40,
+                            "maxEnrolment": 40,
+                            "subTitle": "",
+                            "cancelInd": "N",
+                            "waitlistInd": "N",
+                            "deliveryModes": [
+                                {
+                                    "session": "20235F",
+                                    "mode": "INPER"
+                                }
+                            ],
+                            "currentWaitlist": 0,
+                            "enrolmentInd": "",
+                            "tbaInd": "N",
+                            "openLimitInd": "N",
+                            "notes": [],
+                            "enrolmentControls": [
+                                {
+                                    "yearOfStudy": "*",
+                                    "post": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "subject": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "subjectPost": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "typeOfProgram": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "designation": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "primaryOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "associatedOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "secondOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "adminOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "collaborativeOrgGroupCode": "*",
+                                    "quantity": 40,
+                                    "sequence": 1
+                                }
+                            ],
+                            "linkedMeetingSections": null
+                        },
+                        {
+                            "name": "PRA0103",
+                            "type": "Practical",
+                            "teachMethod": "PRA",
+                            "sectionNumber": "0103",
+                            "meetingTimes": [
+                                {
+                                    "start": {
+                                        "day": 2,
+                                        "millisofday": 46800000
+                                    },
+                                    "end": {
+                                        "day": 2,
+                                        "millisofday": 50400000
+                                    },
+                                    "building": {
+                                        "buildingCode": "MN",
+                                        "buildingRoomNumber": "2100",
+                                        "buildingRoomSuffix": "",
+                                        "buildingUrl": "https://map.utoronto.ca/?id=1809#!m/495122",
+                                        "buildingName": null
+                                    },
+                                    "sessionCode": "20235F",
+                                    "repetition": "WEEKLY",
+                                    "repetitionTime": "ONCE_A_WEEK"
+                                },
+                                {
+                                    "start": {
+                                        "day": 4,
+                                        "millisofday": 46800000
+                                    },
+                                    "end": {
+                                        "day": 4,
+                                        "millisofday": 50400000
+                                    },
+                                    "building": {
+                                        "buildingCode": "MN",
+                                        "buildingRoomNumber": "2100",
+                                        "buildingRoomSuffix": "",
+                                        "buildingUrl": "https://map.utoronto.ca/?id=1809#!m/495122",
+                                        "buildingName": null
+                                    },
+                                    "sessionCode": "20235F",
+                                    "repetition": "WEEKLY",
+                                    "repetitionTime": "ONCE_A_WEEK"
+                                }
+                            ],
+                            "firstMeeting": null,
+                            "instructors": [],
+                            "currentEnrolment": 40,
+                            "maxEnrolment": 40,
+                            "subTitle": "",
+                            "cancelInd": "N",
+                            "waitlistInd": "N",
+                            "deliveryModes": [
+                                {
+                                    "session": "20235F",
+                                    "mode": "INPER"
+                                }
+                            ],
+                            "currentWaitlist": 0,
+                            "enrolmentInd": "",
+                            "tbaInd": "N",
+                            "openLimitInd": "N",
+                            "notes": [],
+                            "enrolmentControls": [
+                                {
+                                    "yearOfStudy": "*",
+                                    "post": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "subject": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "subjectPost": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "typeOfProgram": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "designation": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "primaryOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "associatedOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "secondOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "adminOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "collaborativeOrgGroupCode": "*",
+                                    "quantity": 40,
+                                    "sequence": 1
+                                }
+                            ],
+                            "linkedMeetingSections": null
+                        },
+                        {
+                            "name": "PRA0105",
+                            "type": "Practical",
+                            "teachMethod": "PRA",
+                            "sectionNumber": "0105",
+                            "meetingTimes": [
+                                {
+                                    "start": {
+                                        "day": 2,
+                                        "millisofday": 54000000
+                                    },
+                                    "end": {
+                                        "day": 2,
+                                        "millisofday": 57600000
+                                    },
+                                    "building": {
+                                        "buildingCode": "MN",
+                                        "buildingRoomNumber": "3120",
+                                        "buildingRoomSuffix": "",
+                                        "buildingUrl": "https://map.utoronto.ca/?id=1809#!m/495122",
+                                        "buildingName": null
+                                    },
+                                    "sessionCode": "20235F",
+                                    "repetition": "WEEKLY",
+                                    "repetitionTime": "ONCE_A_WEEK"
+                                },
+                                {
+                                    "start": {
+                                        "day": 4,
+                                        "millisofday": 54000000
+                                    },
+                                    "end": {
+                                        "day": 4,
+                                        "millisofday": 57600000
+                                    },
+                                    "building": {
+                                        "buildingCode": "MN",
+                                        "buildingRoomNumber": "3120",
+                                        "buildingRoomSuffix": "",
+                                        "buildingUrl": "https://map.utoronto.ca/?id=1809#!m/495122",
+                                        "buildingName": null
+                                    },
+                                    "sessionCode": "20235F",
+                                    "repetition": "WEEKLY",
+                                    "repetitionTime": "ONCE_A_WEEK"
+                                }
+                            ],
+                            "firstMeeting": null,
+                            "instructors": [],
+                            "currentEnrolment": 34,
+                            "maxEnrolment": 40,
+                            "subTitle": "",
+                            "cancelInd": "N",
+                            "waitlistInd": "N",
+                            "deliveryModes": [
+                                {
+                                    "session": "20235F",
+                                    "mode": "INPER"
+                                }
+                            ],
+                            "currentWaitlist": 0,
+                            "enrolmentInd": "",
+                            "tbaInd": "N",
+                            "openLimitInd": "N",
+                            "notes": [],
+                            "enrolmentControls": [
+                                {
+                                    "yearOfStudy": "*",
+                                    "post": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "subject": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "subjectPost": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "typeOfProgram": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "designation": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "primaryOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "associatedOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "secondOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "adminOrg": {
+                                        "code": "*",
+                                        "name": "All"
+                                    },
+                                    "collaborativeOrgGroupCode": "*",
+                                    "quantity": 40,
+                                    "sequence": 1
+                                }
+                            ],
+                            "linkedMeetingSections": null
+                        }
+                    ],
+                    "duration": null,
+                    "cmCourseInfo": {
+                        "description": "This course examines different information and communication technologies (ICTs) through the analysis of such genres as contemporary written, visual, oral, electronic and musical forms. It illustrates a range of theoretical perspectives that seek to explain the relationship between communication and technology. This course will also examine, briefly, the history of ICTs. [24L, 11P]",
+                        "title": "Contemporary Communication Technologies",
+                        "levelOfInstruction": "undergraduate",
+                        "prerequisitesText": "",
+                        "corequisitesText": "",
+                        "exclusionsText": "",
+                        "recommendedPreparation": "",
+                        "note": null,
+                        "division": "University of Toronto Mississauga",
+                        "breadthRequirements": null,
+                        "distributionRequirements": [
+                            "Social Science"
+                        ],
+                        "publicationSections": [
+                            "UTM - Communication, Culture, Information & Technology"
+                        ],
+                        "cmPublicationSections": [
+                            {
+                                "section": "UTM - Communication, Culture, Information & Technology",
+                                "subSections": null
+                            }
+                        ]
+                    },
+                    "created": "2023-05-09@01:14:13.625",
+                    "modified": null,
+                    "lastSaved": 0,
+                    "primaryTeachMethod": "LEC",
+                    "faculty": {
+                        "code": "ERIN",
+                        "name": "University of Toronto Mississauga"
+                    },
+                    "coSec": {
+                        "code": "",
+                        "name": null
+                    },
+                    "department": {
+                        "code": "ICC",
+                        "name": "Institute of Communication and Culture"
+                    },
+                    "title": null,
+                    "maxCredit": 0.5,
+                    "minCredit": 0.5,
+                    "breadths": [
+                        {
+                            "org": {
+                                "code": "APSC",
+                                "name": "Faculty of Applied Science & Engineering"
+                            },
+                            "breadthTypes": [
+                                {
+                                    "kind": "ELECTIVE",
+                                    "type": "Compl Studies",
+                                    "description": "Complementary Studies",
+                                    "code": "CS"
+                                }
+                            ]
+                        },
+                        {
+                            "org": {
+                                "code": "ERIN",
+                                "name": "University of Toronto Mississauga"
+                            },
+                            "breadthTypes": [
+                                {
+                                    "kind": "DISTRIBUTION",
+                                    "type": "Social Science",
+                                    "description": "Social Science",
+                                    "code": "SSc"
+                                }
+                            ]
+                        },
+                        {
+                            "org": {
+                                "code": "ARTSC",
+                                "name": "Faculty of Arts and Science"
+                            },
+                            "breadthTypes": [
+                                {
+                                    "kind": "BREADTH",
+                                    "type": "Society Institutions",
+                                    "description": "BR=3 Society and Its Institutions",
+                                    "code": "BR=3"
+                                }
+                            ]
+                        }
+                    ],
+                    "notes": [],
+                    "cancelInd": "N",
+                    "subscriptionTtb": false,
+                    "subscriptionOpenData": false,
+                    "tb1Active": false,
+                    "tb2Active": false,
+                    "fullyOnline": false
+                }
+            ],
+            "total": 1,
+            "page": 1,
+            "pageSize": 20,
+            "direction": null
+        },
+        "divisionalLegends": {
+            "ERIN": "<table><caption>Legend 1</caption>\n<tbody>\n<tr>\n<td>\n<h4><span>Course Code</span></h4>\n</td>\n<td>\n<h4><span style=\"color: #bd2d34;\"><span><span style=\"color: #333333;\">Course Sections</span></span></span></h4>\n</td>\n</tr>\n<tr>\n<td>\n<table><caption>sub legend 1</caption>\n<tbody>\n<tr>\n<td><span style=\"color: #bd2d34;\">ANT102</span><span>H5F</span><br /><br /><span>The first 3 characters denote subject, the next 3 denote course number and course level.</span><br /><br /><span>ANT = Anthropology</span><br /><span>1** = First year course</span><br /><span>102 = Course number</span></td>\n<td><span>ANT102</span><span style=\"color: #bd2d34;\">H</span><span>5F</span><br /><br /><span>The next character denotes the credit value of the course.</span><br /><br /><span>H = Half credit course (0.5 credit)</span><br /><span>Y = Full credit course (1.0 credit)</span></td>\n<td><span>ANT102H</span><span style=\"color: #bd2d34;\">5</span><span>F</span><br /><br /><span>The next character denotes the campus.</span><br /><br /><span>1 = St. George Campus</span><br /><span>3 = Scarborough Campus</span><br /><span>5 = UTM Campus</span><br /><span>(This timetable only shows courses offered by the UTM campus)</span></td>\n<td><span>ANT102H5</span><span style=\"color: #bd2d34;\">F</span><br /><br /><span>The final character denotes the term.</span><br /><br /><span>F = First term course (May to June)</span><br /><span>S = Second term course (July to August)</span><br /><span>Y = Year course (May to August)</span></td>\n</tr>\n</tbody>\n</table>\n</td>\n<td><span style=\"color: #bd2d34;\">LEC</span><span>0101</span><br /><br /><span>The first 3 characters denote type of section.</span><br /><span>LEC = Lecture</span><br /><span>PRA = Practical (Lab)</span><br /><span>TUT = Tutorial</span><br /><br /><br /><span>LEC</span><span style=\"color: #bd2d34;\">0101</span><br /><br /><span>The last four digits indicate the meeting section number.</span></td>\n</tr>\n</tbody>\n</table>\n<table><caption>Legend 2</caption>\n<thead>\n<tr>\n<td>\n<h4><span>Building Codes</span></h4>\n</td>\n<td>\n<h4><span>Distribution Credits</span></h4>\n</td>\n<td>\n<h4><span>Enrolment Controls</span></h4>\n</td>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><span>CC = Communication, Culture and Technology (CCT) Building</span><br /><span>DH = Deerfield Hall</span><br /><span>DV = Davis Building</span><br /><span>KN = Kaneff Building</span><br /><span>MN = Maanjiwe nendamowinan </span><br /><span>IB = Instructional Centre</span><br /><br /><span>SH = Sheridan College</span><br /><br /><span>ZZ = To be announced by your instructor</span><br /><br /><span>Please&nbsp;</span><a href=\"https://map.utoronto.ca/?id=1809#!ce/48514?ct/45469,48901?mc/43.548336,-79.6632?z/16?lvl/0\" target=\"_blank\">click here</a><span>&nbsp;for a map of UTM</span></td>\n<td><span>SCI = Science</span><br /><span>SSc = Social Science</span><br /><span>HUM = Humanities</span></td>\n<td><span>Specific enrolment controls for each course can be seen by clicking on the red </span><span>enrolment controls section.</span><br /><span>If this section is missing, there are no controls for that course</span><br /><br /><span>P = Priority. Some students are given priority access.</span><br /><br /><span>E = Enrolment on ACORN is disabled. Students must enrol through the department.</span><br /><br /><span>R = Restricted. Course is restricted at all times for specific students</span><br /><span>R1 = Restricted. Course is restricted at all times for specific students until specified date. After this date, enrolment is granted to additional groups of eligible students only.</span><br /><br /><span>A = Approval. Departmental approval is required</span><br /><span>AP = Departmental approval is required for enrolment. Some students are given priority access.</span><br /><span>AR = Departmental approval is required. Course is restricted at all times for specific students.</span></td>\n</tr>\n</tbody>\n</table>",
+            "ARTSC": "<h2>Enrolment Controls<br /><br /></h2>\n<table><caption>\n<p class=\"text-left\"><b>Enrolment Controls</b></p>\n</caption>\n<tbody>\n<tr>\n<td><b>P</b></td>\n<td>Priority</td>\n<td>Some students are given priority access until a specific date.</td>\n</tr>\n<tr>\n<td><b>E</b></td>\n<td>Enrol at Department</td>\n<td>Students must contact the sponsoring Department to enrol.</td>\n</tr>\n<tr>\n<td><b>A</b></td>\n<td>Approval Required</td>\n<td><span>Approval from academic unit required for enrolment.</span></td>\n</tr>\n<tr>\n<td><b>AP</b></td>\n<td>Department Approval Required with Priority</td>\n<td><span>Approval from academic unit required for enrolment, some student groups have priority access until a specific date.</span></td>\n</tr>\n<tr>\n<td><b>R1</b></td>\n<td>Restricted</td>\n<td>Course/section is restricted at all times for specific students.</td>\n</tr>\n<tr>\n<td><b>R2</b></td>\n<td>Restricted</td>\n<td>Course/section is restricted to a group of students until a specific date, after which time another group of students is also able to enrol.</td>\n</tr>\n<tr>\n<td><b>AR1</b></td>\n<td>Restricted with Approval</td>\n<td><span>Approval required from academic unit for enrolment, course is also restricted to specific student groups.</span></td>\n</tr>\n<tr>\n<td><b>AR2</b></td>\n<td>Restricted with Approval</td>\n<td><span>Approval required from academic unit for enrolment, course is also restricted to specific student groups until a specific date after which another group of students will be able to request enrolment.</span></td>\n</tr>\n</tbody>\n</table>\n<h2><br />Delivery Modes<br /><br /></h2>\n<h5>Visit the <a href=\"https://www.artsci.utoronto.ca/current/academics/course-planning\" target=\"_blank\">Course Planning page</a> on the A&amp;S website for additional delivery method and course planning details.<br /><br /><br /></h5>\n<table><caption>\n<p class=\"text-left\"><b>Delivery Methods</b></p>\n</caption>\n<tbody>\n<tr>\n<td><b>In Person</b></td>\n<td><span>This meeting section is in-person. You will be required to attend this meeting section at a specific time and location.</span></td>\n</tr>\n<tr>\n<td><b>Online - Synchronous</b></td>\n<td><span>This meeting section is online and requires online participation at a specific time for class activities. There are no in-person activities or assessments (e.g., exams).</span></td>\n</tr>\n<tr>\n<td><b>Online - Synchronous (with in-person assessments)</b></td>\n<td><span>This meeting section is online with mandatory in-person components (e.g., exams, other assessments). Online activities are scheduled at a specific time.</span></td>\n</tr>\n<tr>\n<td><b>Online Asynchronous</b></td>\n<td><span>This meeting section is online and does not require attendance at a specific time for class activities. There are no in-person activities or assessments (e.g., exams).</span></td>\n</tr>\n<tr>\n<td><b>Online Asynchronous (with in-person assessments)</b></td>\n<td><span>This meeting section is online with mandatory in-person components (e.g., exams, other assessments). Online activities are not scheduled at a specific time.</span></td>\n</tr>\n</tbody>\n</table>",
+            "ARCLA": "<h3><span style=\"color: #333333;\"><b>John H. Daniels Faculty of Architecture, Landscape Architecture and Design</b></span></h3>\n<table><caption><span style=\"color: #333333;\">Enrolment Controls</span></caption>\n<tbody>\n<tr>\n<td><span style=\"color: #333333;\">P</span></td>\n<td><span style=\"color: #333333;\">Priority</span></td>\n<td>\n<p><span style=\"color: #333333;\">Some students are given priority access until a specific date.&nbsp; See the enrolment controls information for which students may enrol as of the current date.&nbsp; </span></p>\n<p><i><span style=\"color: #333333;\">Unless specific course notes indicate otherwise, enrolment in Priority courses will open as of:</span></i></p>\n<ul>\n<li><i><span style=\"color: #333333;\"> Wednesday, March 1 to all students registered in Arts and Science and Daniels who are specified in the priority enrolment controls shown; </span></i></li>\n<li><i><span style=\"color: #333333;\">Monday, March 6th to any additional Arts and Science and Daniels students who were not specified in the first set of priority enrolment controls; </span></i></li>\n<li><i><span style=\"color: #333333;\">Tuesday, April 11th to students registered in other St. George Campus undergraduate faculties; and, </span></i></li>\n<li><i><span style=\"color: #333333;\">Wednesday, April 12th to students registered with University of Toronto Mississauga and University of Toronto Scarborough.</span></i></li>\n</ul>\n</td>\n</tr>\n<tr>\n<td><span style=\"color: #333333;\">E</span></td>\n<td><span style=\"color: #333333;\">Enrol through Daniels' Registrar's Office</span></td>\n<td><span style=\"color: #333333;\">Enrolment not available via ACORN.&nbsp; Enrolment details/deadlines can be found in course notes.</span></td>\n</tr>\n<tr>\n<td><span style=\"color: #333333;\">R</span></td>\n<td><span style=\"color: #333333;\">Restricted</span></td>\n<td><span style=\"color: #333333;\">Course/section is restricted at all times to students specified in the enrolment controls.</span></td>\n</tr>\n</tbody>\n</table>\n<h6><span style=\"color: #333333;\"><i><b>Undergraduate Calendar Course Information</b></i></span></h6>\n<p><span style=\"color: #333333;\"><a href=\"https://daniels.calendar.utoronto.ca/guide-program-course-descriptions#descriptions\" target=\"_blank\">Guide to Program &amp; Course Descriptions | Daniels Faculty (utoronto.ca)</a></span></p>\n<h6><span style=\"color: #333333;\"><i><b>Undergraduate Course Descriptions</b></i></span></h6>\n<p><span style=\"color: #333333;\"><a href=\"https://www.daniels.utoronto.ca/students/current-students/course-descriptions-timetables\" target=\"_blank\">Course Descriptions &amp; Timetables | Daniels (utoronto.ca)</a></span></p>\n<h6><span style=\"color: #333333;\"><i><b>Undergraduate Sessional Dates</b></i></span></h6>\n<p><span style=\"color: #333333;\"><a href=\"https://daniels.calendar.utoronto.ca/sessional-dates\" target=\"_blank\">2022-2023 Sessional Dates | Daniels Faculty (utoronto.ca)</a></span></p>\n<p><span style=\"color: #333333;\">___________</span></p>\n<p><span style=\"color: #333333;\">This timetable does not yet include all instructors or room information.&nbsp; Instructor and room information will be added as it becomes available.</span></p>"
+        },
+        "divisionalEnrolmentIndicators": {
+            "ERIN": [
+                {
+                    "code": "A",
+                    "name": "Departmental approval is required. The course will appear on student's ACORN record with a status of INTerim until the department has had an opportunity to review students' requests and APProve or REFuse the course. Fees charges will not appear on the student invoice until an APProved status is assigned."
+                },
+                {
+                    "code": "R",
+                    "name": "Course is restricted at all times to the following students:"
+                },
+                {
+                    "code": "AR",
+                    "name": "Departmental approval is required for the course. The course will appear on student's ACORN record with a status of INTerim until the department has had an opportunity to review students' requests and APProve or REFuse the course. Fees charges will not appear on the student invoice until an APProved status is assigned. The course is restricted at all times to students in the following groups:"
+                },
+                {
+                    "code": "P",
+                    "name": "Priority is given to certain groups of students to enrol first and then the course becomes available to other UTM students on April 3, 2023 at 6 am. April 12, 2023 at 6 am is the first day UTM students can add St. George/UTSC courses, and St. George/UTSC students can add UTM courses."
+                },
+                {
+                    "code": "E",
+                    "name": "Enrolment through ACORN is not available. Students must enrol through the department. Departmental approval is required."
+                },
+                {
+                    "code": "R1",
+                    "name": "The course is restricted at all times to students in the following groups:"
+                },
+                {
+                    "code": "AP",
+                    "name": "Departmental approval is required (i.e. the course will appear on student's ACORN record with a status of INTerim until the department has had an opportunity to review students' requests and APProve or REFuse the course) and priority is given to certain groups of students to enrol first and then the course becomes available to other UTM students on April 3, 2023. April 12, 2023 is the first day UTM students can add St. George/UTSC courses, and St. George/UTSC students can add UTM courses."
+                }
+            ]
+        }
+    },
+    "status": [
+        {
+            "code": 0,
+            "message": "Success"
+        }
+    ]
+}
